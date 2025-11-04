@@ -1,1 +1,3 @@
-# BSA-Rank-Up-Workbooks
+# Scouts BSA Rank Up Workbooks
+
+Workbooks up to Eagle!
